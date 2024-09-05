@@ -127,8 +127,8 @@ module.exports = function (ctx) {
       workboxPluginMode: 'GenerateSW', // 'GenerateSW' or 'InjectManifest'
       workboxOptions: {maximumFileSizeToCacheInBytes: 5000000,}, // only for GenerateSW
       manifest: {
-        name: 'FlowDeskPro',
-        short_name: 'FlowDeskPro',
+        name: 'CorpChat',
+        short_name: 'CorpChat',
         description: 'Bot Multi-atendimento para whatsapp',
         display: 'standalone',
         orientation: 'portrait',
